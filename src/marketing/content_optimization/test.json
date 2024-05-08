@@ -1,0 +1,127 @@
+{
+  "goal_and_persona": ["brand_awareness", "creative"],
+  "website": "www.somewebsite.com",
+  "phone_info": "234234",
+  "facebook": "123123123",
+  "instagram": "123123123",
+  "company_address": "Via Michele Cifarelli, 36",
+  "place": {
+    "regularHours": [
+      {
+        "closeDay": "SUNDAY",
+        "closeTime": {
+          "hours": 18,
+          "minutes": null,
+          "nanos": null,
+          "seconds": null,
+          "eTag": null
+        },
+        "openDay": "SUNDAY",
+        "openTime": {
+          "hours": 11,
+          "minutes": null,
+          "nanos": null,
+          "seconds": null,
+          "eTag": null
+        },
+        "eTag": null
+      },
+      {
+        "closeDay": "MONDAY",
+        "closeTime": {
+          "hours": 18,
+          "minutes": null,
+          "nanos": null,
+          "seconds": null,
+          "eTag": null
+        },
+        "openDay": "MONDAY",
+        "openTime": {
+          "hours": 11,
+          "minutes": null,
+          "nanos": null,
+          "seconds": null,
+          "eTag": null
+        },
+        "eTag": null
+      },
+      {
+        "closeDay": "WEDNESDAY",
+        "closeTime": {
+          "hours": 18,
+          "minutes": null,
+          "nanos": null,
+          "seconds": null,
+          "eTag": null
+        },
+        "openDay": "WEDNESDAY",
+        "openTime": {
+          "hours": 11,
+          "minutes": null,
+          "nanos": null,
+          "seconds": null,
+          "eTag": null
+        },
+        "eTag": null
+      },
+      {
+        "closeDay": "THURSDAY",
+        "closeTime": {
+          "hours": 18,
+          "minutes": null,
+          "nanos": null,
+          "seconds": null,
+          "eTag": null
+        },
+        "openDay": "THURSDAY",
+        "openTime": {
+          "hours": 11,
+          "minutes": null,
+          "nanos": null,
+          "seconds": null,
+          "eTag": null
+        },
+        "eTag": null
+      },
+      {
+        "closeDay": "FRIDAY",
+        "closeTime": {
+          "hours": 18,
+          "minutes": null,
+          "nanos": null,
+          "seconds": null,
+          "eTag": null
+        },
+        "openDay": "FRIDAY",
+        "openTime": {
+          "hours": 11,
+          "minutes": null,
+          "nanos": null,
+          "seconds": null,
+          "eTag": null
+        },
+        "eTag": null
+      },
+      {
+        "closeDay": "SATURDAY",
+        "closeTime": {
+          "hours": 18,
+          "minutes": null,
+          "nanos": null,
+          "seconds": null,
+          "eTag": null
+        },
+        "openDay": "SATURDAY",
+        "openTime": {
+          "hours": 11,
+          "minutes": null,
+          "nanos": null,
+          "seconds": null,
+          "eTag": null
+        },
+        "eTag": null
+      }
+    ]
+  }
+
+}
